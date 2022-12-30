@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Temperature-_app/static/css/main.7f819b81.css",
+    "main.js": "/Temperature-_app/static/js/main.5c77cccc.js",
+    "static/js/787.154ded67.chunk.js": "/Temperature-_app/static/js/787.154ded67.chunk.js",
+    "index.html": "/Temperature-_app/index.html",
+    "main.7f819b81.css.map": "/Temperature-_app/static/css/main.7f819b81.css.map",
+    "main.5c77cccc.js.map": "/Temperature-_app/static/js/main.5c77cccc.js.map",
+    "787.154ded67.chunk.js.map": "/Temperature-_app/static/js/787.154ded67.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f819b81.css",
+    "static/js/main.5c77cccc.js"
+  ]
+}
